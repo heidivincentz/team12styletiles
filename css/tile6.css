@@ -20,7 +20,7 @@ use the fonts in other ways in the font hierarchy etc. */
   --color-4: #45403c;
   --color-5: #91887e;
 
-  --primary-font: basic-sans, sans-serif;
+  --primary-font: nimbus-sans, sans-serif;
   --secondary-font: work-sans, sans-serif;
   --main-text-color: #131313;
 

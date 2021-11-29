@@ -20,8 +20,8 @@ use the fonts in other ways in the font hierarchy etc. */
   --color-4: #45403c;
   --color-5: #91887e;
 
-  --primary-font: basic-sans, sans-serif;
-  --secondary-font: work-sans, sans-serif;
+  --primary-font: work-sans, sans-serif;
+  --secondary-font: sofia-pro, sans-serif;
   --main-text-color: #131313;
 
   --white-space: 1rem;
